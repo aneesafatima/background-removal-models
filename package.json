@@ -1,0 +1,22 @@
+{
+  "name": "background-removal-models",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneesafatima/background-removal-models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneesafatima/background-removal-models/issues"
+  },
+  "homepage": "https://github.com/aneesafatima/background-removal-models#readme",
+  "description": "",
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5"
+  }
+}
